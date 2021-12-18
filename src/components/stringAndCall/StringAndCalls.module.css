@@ -1,0 +1,9 @@
+.container {
+    padding: 30px;
+}
+
+.title{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
